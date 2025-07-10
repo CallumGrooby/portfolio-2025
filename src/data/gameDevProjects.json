@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Dialogue Manager",
+    "role": "Design / General Programming",
+    "techStack": ["Unity", "C#"],
+    "description": "A personal Unity project focused on building a node-based dialogue system using Unity’s Graph View library. Allows branching dialogue with multiple choices. Built to explore editor tool development and data structuring within Unity.",
+    "video": "https://www.youtube.com/embed/uH83RwT2f8A",
+    "code": "https://github.com/yourusername/dialogue-manager"
+  },
+  {
+    "title": "Power",
+    "role": "Networking / General Programming",
+    "techStack": ["Unreal Engine", "C++", "Blueprints"],
+    "description": "A cooperative puzzle game where players solve challenges through communication. Developed by a five-person team, with an early prototype created in Unity before moving to Unreal for final development.",
+    "video": "https://www.youtube.com/embed/ql2LKbQ_n8Q",
+    "code": "https://github.com/yourusername/power"
+  },
+  {
+    "title": "Natural Interactions",
+    "role": "Research and Development",
+    "techStack": ["Unity", "C#", "VR", "Hand Tracking"],
+    "description": "A final-year VR research project studying the impact of hand tracking versus controller input on user presence. Users place furniture in a virtual room using either natural or conventional interactions.",
+    "video": "https://www.youtube.com/embed/TT3QVqID9y0",
+    "code": "https://github.com/yourusername/natural-interactions"
+  },
+  {
+    "title": "Escape the Carnival",
+    "role": "General / Interactions Programming",
+    "techStack": ["Unity", "C#"],
+    "description": "A group project where players complete carnival-themed mini-games to escape. Developed with three collaborators using GitHub for version control and teamwork.",
+    "video": "https://www.youtube.com/embed/ujpLCL6Bnqw",
+    "code": "https://github.com/yourusername/escape-the-carnival"
+  },
+  {
+    "title": "Unity Development Tools",
+    "role": "Design / General Programming",
+    "techStack": ["Unity", "C#"],
+    "description": "A set of custom editor tools for Unity, including a Dialogue Importer, Quick Placement Tool, and Camera Controller. Built to streamline development and explore Unity Editor scripting.",
+    "video": "https://www.youtube.com/embed/e_xdKuLbHkE",
+    "code": "https://github.com/yourusername/unity-development-tools"
+  }
+]

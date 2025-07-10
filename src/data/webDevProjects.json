@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Iron Hook",
+    "image": "/images/iron-hook.png",
+    "techStack": ["MongoDB", "Express.js", "Node.js", "React", "Stripe", "Tailwind CSS"],
+    "description": "A full-stack e-commerce website with secure checkout, product/category management, and order tracking. Built with Stripe integration and MongoDB to simulate real-world store workflows.",
+    "code": "https://github.com/yourusername/iron-hook",
+    "site": "https://ironhook.yourdomain.com"
+  },
+  {
+    "title": "Reddit Scroller",
+    "image": "/images/reddit-scroller.png",
+    "techStack": ["React", "Tailwind CSS", "Reddit API"],
+    "description": "A subreddit browser that fetches and displays posts sorted by new, hot, or top. Uses Reddit’s JSON API with a simple, responsive UI.",
+    "code": "https://github.com/yourusername/reddit-scroller",
+    "site": "https://reddit-scroller.yourdomain.com"
+  },
+  {
+    "title": "Cube Nest",
+    "image": "/images/cube-nest.png",
+    "techStack": ["HTML", "CSS", "JavaScript", "Google Maps API"],
+    "description": "A landing page for modular living units, featuring Google Maps API integration and custom animations. Built to practice responsive layouts and motion effects.",
+    "code": "https://github.com/yourusername/cube-nest",
+    "site": "https://cubenest.yourdomain.com"
+  },
+  {
+    "title": "Spotify Stats (Local)",
+    "image": "/images/spotify-stats.png",
+    "techStack": ["Express.js", "Spotify API", "React"],
+    "description": "Displays a user's top artists and tracks using the Spotify API. Runs locally due to API restrictions. Backend handles secure API requests via Express.",
+    "code": "https://github.com/yourusername/spotify-stats",
+    "site": "http://localhost:3000"
+  },
+  {
+    "title": "Freshlinc Website",
+    "image": "/images/freshlinc.png",
+    "techStack": ["HTML", "CSS", "JavaScript", "Responsive Design"],
+    "description": "A responsive website design for Freshlinc, focused on showcasing transport and logistics services. Emphasized a clean layout and cross-device compatibility.",
+    "code": "https://github.com/yourusername/freshlinc-site",
+    "site": "https://freshlinc.yourdomain.com"
+  },
+  {
+    "title": "Endeavour Website",
+    "image": "/images/endeavour.png",
+    "techStack": ["HTML", "CSS", "JavaScript", "Responsive Design"],
+    "description": "Designed a modern, mobile-friendly website for Endeavour, emphasizing professional services and easy navigation. Built to strengthen front-end design skills.",
+    "code": "https://github.com/yourusername/endeavour-site",
+    "site": "https://endeavour.yourdomain.com"
+  }
+]
